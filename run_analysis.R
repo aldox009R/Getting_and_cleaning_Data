@@ -1,6 +1,3 @@
-#https://rpubs.com/mondragon/165294
-#https://rstudio-pubs-static.s3.amazonaws.com/137175_558309700d8c447f92fca62384f866de.html
-
 library(plyr)
 library(data.table)
 features <- read.csv("features.txt", header = FALSE, sep = ' ')
